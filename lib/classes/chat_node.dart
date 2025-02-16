@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'package:crypto/crypto.dart';
 import 'package:maid/enumerators/chat_role.dart';
-import 'package:maid_llm/maid_llm.dart';
+import 'package:lcpp/maid_llm.dart';
 
 class ChatNode {
   late String hash;

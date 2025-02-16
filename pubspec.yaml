@@ -33,8 +33,8 @@ dependencies:
   flutter_resizable_container: ^2.0.0
   flutter_svg: ^2.0.10+1
   dio: ^5.4.3+1
-  maid_llm:
-    path: packages/maid_llm
+  lcpp:
+    path: packages/lcpp
   babylon_tts:
     path: packages/babylon_tts
 

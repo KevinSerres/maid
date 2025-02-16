@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:maid/classes/providers/large_language_model.dart';
 import 'package:maid/enumerators/large_language_model_type.dart';
 import 'package:maid/classes/static/logger.dart';
-import 'package:maid_llm/maid_llm.dart';
+import 'package:lcpp/maid_llm.dart';
 import 'package:maid/classes/chat_node.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
